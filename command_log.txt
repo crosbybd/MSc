@@ -1,0 +1,1000 @@
+    7  man apt
+    8  man apt-get
+    9  get install curl
+   10  get curl
+   11  install curl
+   12  pwd
+   13  ap-get install curl
+   14  curl
+   15  curl --help
+   16  curl "http"//www.rcsb.org/pdb/files/1ema.pdb"
+   17  fsfs
+   18  q`fmklfmbe
+   19  feklv
+   20  "
+   21  "
+   22  ogout
+   23  ls -al
+   24  cd biol812
+   25  ls -al
+   26  cd quiz1
+   27  ls -al
+   28  dklsvmksl
+   29  logout
+   30  ls -al
+   31  pwd
+   32  curl "http://www.rcsb.org/pdb/files/1ema.pdb"
+   33  ls -al
+   34  touch file.txt
+   35  ls -al
+   36  mv file.txt biol812/
+   37  cd biol812
+   38  ls -al
+   39  nano test.R
+   40  Rscript test.R
+   41  nano test.py
+   42  python3 test.py
+   43  module load python
+   44  which python3
+   45  python3 test.py
+   46  logout
+   47  ls -al
+   48  hostname
+   49  cd biol812
+   50  ls -al
+   51  mkdir documents
+   52  ls
+   53  cd documents
+   54  ls 
+   55  pwd
+   56  cd ../
+   57  cd documents
+   58  cd ~
+   59  ls -al
+   60  cd biol812
+   61  ls -al
+   62  cd documents
+   63  cd .
+   64  ls -al
+   65  cd /
+   66  ls -al
+   67  ls -l
+   68  cd ~
+   69  ls -al
+   70  cd biol812
+   71  ls -al
+   72  ls -l
+   73  nano test.txt
+   74  ls -al
+   75  ls -l
+   76  cat test.txt
+   77  cat test.txt test.txt
+   78  mv test.txt documents/
+   79  ls -al
+   80  cd documents
+   81  ls -al
+   82  cd ...
+   83  cd ..
+   84  ls -al
+   85  nano filename
+   86  ls -al
+   87  mv filename nano-demo.txt
+   88  ls -al
+   89  cp nano-demo.txt nano-demo2.txt
+   90  ls -l
+   91  cp nano-demo.txt nano-demo3.txt
+   92  cp nano-demo.txt /documents/nano-demo.txt 
+   93  ls -al
+   94  cp nano-demo.txt documents/nano-demo.txt 
+   95  ls -al
+   96  rm nano-demo3.txt
+   97  ls -al
+   98  mkdir what
+   99  ls -al
+  100  rmdir what
+  101  ls -l
+  102  ls -al
+  103  cd ~
+  104  ls -l
+  105  ls -a
+  106  ls -al
+  107  cd biol812/
+  108  ls -al
+  109  ls ==help
+  110  ls --help
+  111  man ls
+  112  ls -al
+  113  ls /documents/
+  114  ls documents/
+  115  rm -r documents/
+  116  ls -al
+  117  wget https://hpc-carpentry.github.io/hpc-intro/files/bash-lesson.tar.gz
+  118  ls -al
+  119  ls -h
+  120  ls -hl
+  121  ls -l
+  122  ls -hl
+  123  tar -xvf bash-lesson.tar.gz
+  124  ls -hal
+  125  ls -lh
+  126  cat dmel-all-r6.19.gtf
+  127  ls -al
+  128  head SRR307023_1.fastq 
+  129  tail SRR307023_1.fastq 
+  130  less SRR307023_1.fastq 
+  131  ls -al
+  132  less gene_association.fb
+  133  wc  -l
+  134  wc -l nano-demo.txt
+  135  wc -l SRR307023_1.fastq 
+  136  we -l *.fastq
+  137  wc -l *.fastq
+  138  ls *.fastq
+  139  ls *fb*
+  140  wc -l *.fastq > word_counts.txt
+  141  ls -al
+  142  nano word_counts.txt
+  143  cat word_counts.txt
+  144  mkdir fastq
+  145  mv *.fastq fastq
+  146  ls -al
+  147  ls fastq/
+  148  ls -al
+  149  wc -l * > word_counts.txt
+  150  less word_counts.txt
+  151  ls -al
+  152  cat word_counts.txt
+  153  less dmel-all-r6.19.gtf
+  154  grep Act5C dmel-all-r6.19.gtf
+  155  grep Act5C dmel-all-r6.19.gtf | head -n 1
+  156  grep Act5C dmel-all-r6.19.gtf | wc -l
+  157  echo "hello world"
+  158  echo this is a test
+  159  demo.sh
+  160  nano demo.sh
+  161  ls -hal
+  162  ./demo.sh
+  163  ls -l
+  164  ls -al
+  165  chmod +x  demo.sh
+  166  ls -l
+  167  demo.sh
+  168  ./demo.sh
+  169  nano demo.sh
+  170  ls -al
+  171  bash demo.sh
+  172  nano demo.sh
+  173  ./demo.sh
+  174  nano demo.sh
+  175  ./demo.sh
+  176  nano demo.sh
+  177  ./demo.sh
+  178  nano demo.sh
+  179  ./demoo.sh
+  180  ./demo.sh
+  181  nano cluster.sh
+  182  cat cluster.sh
+  183  hostname
+  184  sinfo -p standard
+  185  sbatch cluster.sh
+  186  squeue -u hpc3737
+  187  cat slurm-191839
+  188  watch 191839
+  189  watch squeue -u hpc3737
+  190  nano cluster.sh
+  191  watch squeue -u hpc3737
+  192  module avail
+  193  module avail qiime
+  194  module avail bowtie
+  195  module avail ima
+  196  module avail
+  197  module load bowtie2
+  198  module list
+  199  module load bowtie2
+  200  module list
+  201  module load python
+  202  python --version
+  203  module load python/2.7.14
+  204  python --version
+  205  module list
+  206  module load python
+  207  module load gcc
+  208  module list
+  209  wget sdjfksnfjsk
+  210  wget nejfkjwklejkal
+  211  ls -al
+  212  ls -ha
+  213  ls -lh
+  214  cd biol812
+  215  ls -hl
+  216  nano demo.sh
+  217  man head
+  218  head -n 1 demo.sh
+  219  ls -hl
+  220  mkdir FastQFiles
+  221  ls -hl
+  222  cd FastQfiles
+  223  cd FastQFiles
+  224  ls -hl
+  225  nano 123.fastq
+  226  cp 123.fastq 124.fastq
+  227  nano 124.fastq
+  228  cp 123.fastq 145.fastq
+  229  nano 145.fastq
+  230  ls -hl
+  231  cp 123.fastq 133.fastq
+  232  nano 133.fastq
+  233  ls -al
+  234  cd ..
+  235  ls -al
+  236  script.sh
+  237  nano script.sh
+  238  script.sh
+  239  sbatch script.sh
+  240  squeue -u hpc3737
+  241  ls -hl
+  242  nano slurm-219530.out
+  243  nano script.sh
+  244  root
+  245  pwd
+  246  test.R
+  247  nano test.R
+  248  rscript test.R
+  249  Rscript test.R
+  250  ls -hl
+  251  nano quiz1
+  252  cd quiz1
+  253  ls -al
+  254  cd ..
+  255  ls -al
+  256  cd fastq
+  257  ls -al
+  258  cd ..
+  259  ls -hl
+  260  nano script.sh
+  261  cd ..
+  262  ls -hl
+  263  cd biol812
+  264  ls -hl
+  265  nano cluster.sh
+  266  ls -hl
+  267  nano test.R
+  268  nano demo.s
+  269  nano demo.sh
+  270  nano Rtest.R
+  271  sbatch Rtest.R
+  272  ls -hl
+  273  nano slurm-219603
+  274  man Rscript
+  275  nano Rtest.R
+  276  ls -hl
+  277  nano Rtest.sh
+  278  cat Rest.sh
+  279  cat Rtest.sh
+  280  sbatch Rtest.sh
+  281  ls -hl
+  282  cat slurm 219622
+  283  cat slurm-219622.out
+  284  ls -hl
+  285  cd biol812
+  286  ls -hl
+  287  nano cluster.sh
+  288  nano demo.sh
+  289  nano script.sh
+  290  logout
+  291  ls -hl
+  292  cd biol81
+  293  cd biol812
+  294  ls -hl
+  295  history | history.txt
+  296  history | cat >>history.txt
+  297  less history.txt
+  298  ls -hl
+  299  logout
+  300  cd biol812
+  301  ls -hl
+  302  nano slurm-219622.out
+  303  ls -lh
+  304  ls -hl
+  305  nano Rtest.sh
+  306  nano cluster.sh
+  307  ls -hl
+  308  nano rbash.sh
+  309  ls -hl
+  310  nano printout.R
+  311  ls -hl
+  312  sbatch rbash.sh
+  313  watch squeue -u hpc3737
+  314  ls -hl
+  315  less slurm-223870.out
+  316  nano rbash.sh
+  317  pwd
+  318  less slurm-223870.out
+  319  pwd
+  320  nano printout.R
+  321  sbatch rbash.sh
+  322  ls -hl
+  323  less slurm-223880.out
+  324  nano rbash.sh
+  325  sbatch rbash.sh
+  326  watch squeue -u hpc3737
+  327  ls -hl
+  328  less slurm-223885.out
+  329  logout
+  330  pwd
+  331  ls -al
+  332  ls -ahl
+  333  mkdir parusmajor
+  334  ls -al
+  335  cd parusmajor
+  336  ls -ahl
+  337  wget/FTP root: ftp://ftp-trace.ncbi.nih.gov/sra/sra-instant/reads/ByRun/sra/ERR/ERX187/ERX1872*[12][89012][0-9]*/ERX1872*[12][89012][0-9]*.sra
+  338  wget root: ftp://ftp-trace.ncbi.nih.gov/sra/sra-instant/reads/ByRun/sra/ERR/ERX187/ERX1872*[12][89012][0-9]*/ERX1872*[12][89012][0-9]*.sra
+  339  wget root: ftp://ftp-trace.ncbi.nih.gov/sra/sra-instant/reads/ByRun/sra/ERR/ERX187/ERX1872184/ERX1872184.sra
+  340  pwd
+  341  ls -al
+  342  ls -hal
+  343  mkdir endophyte
+  344  ls -al
+  345  cd endophyte
+  346  ls -al
+  347  pwd ../
+  348  ls -al ../
+  349  ls -al
+  350  git init
+  351  git status
+  352  ls -al
+  353  ls 
+  354  ls
+  355  ls -l
+  356  ls -a
+  357  ls -al
+  358  wget "https://datadryad.org/bitstream/handle/10255/dryad.56305/seqs.fna.zip?sequence=2"
+  359  ls -al
+  360  tar -xzf seqs.fna.zip?sequence=2
+  361  gunzip seqs.fna.zip?sequence=2
+  362  mv seqs.fna.zip?sequence=2 seqs.fna.zip
+  363  ls -al
+  364  gunzip seqs.fna.zip
+  365  man gunzip
+  366  unzip seqs.fna.zip
+  367  ls -al
+  368  mkdir kemler
+  369  ls -al
+  370  mv *.fna ./kemler/*.fna
+  371  mv *.fna ./kemler/
+  372  ls -al
+  373  mv seqs.fna.zip ./kemler/
+  374  ls -al
+  375  cd kemlder
+  376  cd kemler
+  377  ;s -al
+  378  cd ..
+  379  ls -al /kemler/
+  380  ls -al ./kemler/
+  381  cd kemler
+  382  ls -al
+  383  wget "https://datadryad.org/bitstream/handle/10255/dryad.56305/README.txt?sequence=3"
+  384  ls -al
+  385  mv README.txt?sequence=3 README.txt
+  386  ls -al
+  387  cd ..
+  388  ls -al
+  389  nano ./kemler/README.txt
+  390  cd kemler
+  391  ls -al
+  392  head fuzzy
+  393  head fuzzy_match.fna
+  394  head no_primer.fna
+  395  head perfect_match.fna
+  396  nano README.txt
+  397  cd ..
+  398  ls -al
+  399  mkdir bonito
+  400  cd bonito
+  401  ls -al
+  402  cd ..
+  403  ls -al
+  404  less kemler/README.txt
+  405  ls -al
+  406  cd bonito
+  407  ls -al
+  408  wget "https://datadryad.org/bitstream/handle/10255/dryad.96395/UNITE_annot_fungal_mcl.fasta?sequence=2"
+  409  cd ..
+  410  mkdir geremia
+  411  ls-al
+  412  ls -al
+  413  ls -al bonito
+  414  mv ./bonito/*mcl* ./geremia/
+  415  ls -al geremia
+  416  ls -al bonito
+  417  cd geremia
+  418  ls -al
+  419  wget "https://datadryad.org/bitstream/handle/10255/dryad.96396/Bacterial_abu_uniq.fasta?sequence=1"
+  420  wget "https://datadryad.org/bitstream/handle/10255/dryad.96395/README.txt?sequence=1"
+  421  ls -al
+  422  cp (.*)?sequence* ./\1
+  423  cp ./(*)?sequence* ./\1
+  424  mv Bacterial_abu_uniq.fasta?sequence=1 Bacterial_abu_uniq.fasta
+  425  ls -al
+  426  mv README.txt?sequence=1 READMEfungal.txt
+  427  ls -al
+  428  mv UNITE_annot_fungal_mcl.fasta?sequence=2
+  429  mv UNITE_annot_fungal_mcl.fasta?sequence=2 UNITE_annot_fungal_mcl.fasta
+  430  ls -al
+  431  nano READMEfungal.txt
+  432  wget "https://datadryad.org/bitstream/handle/10255/dryad.96396/README.txt?sequence=2"
+  433  ls -al
+  434  mv README.txt?sequence=2 READMEbacterial.txt
+  435  ls -al
+  436  less Bacterial_abu_uniq.fasta
+  437  less UNITE_annot_fungal.mcl.fasta
+  438  less UNITE_annot_fungal_mcl.fasta
+  439  ls -al
+  440  cd ..
+  441  nano READMEbacterial.txt
+  442  nano READMEfungal.txt
+  443  wget "https://datadryad.org/bitstream/handle/10255/dryad.96395/README.txt?sequence=1"
+  444  ls -al
+  445  cd geremia
+  446  ls -al
+  447  nano READMEbacterial.txt
+  448  nano READMEfungal.txt
+  449  cd ..
+  450  ls -al
+  451  rm ./README*
+  452  ls -al
+  453  nano geremia
+  454  ls -al
+  455  cd geremia
+  456  ls -al
+  457  cd ..
+  458  ls -al
+  459  cd bonito
+  460  ls -al
+  461  wget "https://datadryad.org/bitstream/handle/10255/dryad.62732/16S_host_denoised_by_SampleID.fasta.tar.gz?sequence=1"
+  462  ls -al
+  463  mv 16S* ./16S_host_denoised_by_SampleID.fasta.tar.gz
+  464  ls -al
+  465  tar -xzf 16S_host_denoised_by_SampleID.fasta.tar.gz 
+  466  ls -al
+  467  less 16S_host_denoised_by_SampleID.fasta
+  468  head 16S_host_denoised_by_SampleID.fasta
+  469  cd 16S_host_denoised_by_SampleID.fasta/
+  470  ls -al
+  471  nano 000.2.4Pine.NC2.fasta 
+  472  cd ..
+  473  ls -al
+  474  wget "https://datadryad.org/bitstream/handle/10255/dryad.62742/Glomeromycota_454_Host_All.nex?sequence=1"
+  475  ls -al
+  476  mv Glomeromycota_454_Host_All.nex?sequence=1 Glomeromycota_454_Host_All.nex
+  477  ls -al
+  478  head Glomeromycota_454_Host_All.nex 
+  479  ls -al
+  480  cd ..
+  481  ls -al
+  482  cd bonito
+  483  ls -al
+  484  nano README.txt
+  485  cd ..
+  486  cd geremia
+  487  ls -al
+  488  pwd
+  489  ls -al
+  490  pwd
+  491  wget "https://datadryad.org/bitstream/handle/10255/dryad.96466/exp_des.txt"
+  492  ls -al
+  493  nano exp_des.txt
+  494  head exp_des.txt 
+  495  less exp_des.txt 
+  496  logout
+  497  ls -al
+  498  ls ./parusmajor
+  499  cd parusmajor
+  500  ls -al
+  501  cd ..
+  502  ls -al
+  503  ls endophyte
+  504  ls -al
+  505  cd endophyte
+  506  ls -al
+  507  sdvs
+  508  logout
+  509  cd endophyte
+  510  ls -al
+  511  ls
+  512  ls -al
+  513  ls -hal
+  514  la -hahl
+  515  ls -ahhl
+  516  ls -aaaaaa
+  517  ls -llllllllll
+  518  ls -lsa
+  519  ls -ahls
+  520  cd bonito
+  521  ls -al
+  522  cd ..
+  523  cd geremia
+  524  ls -al
+  525  less Bacterial_abu_uniq.fasta
+  526  less UNITE_annot_fungal_mcl.fasta
+  527  cd ../kemler
+  528  ls -al
+  529  cd ../geremia
+  530  ls -al
+  531  cd ../bonito
+  532  ls -al
+  533  less 16S_host_denoised_by_SampleID.fasta
+  534  cd 16S_host_denoised_by_SampleID.fasta/
+  535  ls -al
+  536  less 000.00.21b..NC3.fasta
+  537  less 000.2.3Quer.NC2.fasta
+  538  cd ..
+  539  ls -al
+  540  cd ..
+  541  ls -al
+  542  cd geremia
+  543  ls- al
+  544  ls -al
+  545  less Bacterial_abu_uniq.fasta
+  546  pwd
+  547  cd ..
+  548  ls -al
+  549  cd bonito
+  550  ls -al
+  551  cd 16S_host_denoised_by_SampleID.fasta/
+  552  ls -al
+  553  less 000.2.1Pine.NC2.fasta
+  554  ls -al
+  555  cd endophyte
+  556  ls -al
+  557  cd bonito
+  558  ls -al
+  559  nano README.txt
+  560  nano TEST.txt
+  561  cd ..
+  562  ls -al
+  563  cd ..
+  564  ls -al
+  565  cd biol812
+  566  ls -al
+  567  nano demo.sh
+  568  bash demo.sh
+  569  nano demo.sh
+  570  ls -al
+  571  bash demo.sh demo2.sh
+  572  ls -al
+  573  nano script.sh
+  574  bash demo2.sh
+  575  nano demo2.sh
+  576  bash demo.sh demo2.sh
+  577  bash demo*sh
+  578  ls -al
+  579  logout
+  580  ls -al
+  581  nano biol812/demo.sh
+  582  logout
+  583  ls
+  584  logout
+  585  ls -al
+  586  cd endophyte
+  587  ls -al
+  588  nano SRA_job_
+  589  ls -al
+  590  nano SRA_job_PRJNA325438_PRJNA307272_PRJEB7842_PRJEB7137_PRJNA288708 
+  591  ls =al
+  592  ls -al
+  593  less SRA_job_PRJNA325438_PRJNA307272_PRJEB7842_PRJEB7137_PRJNA288708 
+  594  logout
+  595  ls -al
+  596  cd endophyte
+  597  ls -al
+  598  nano SRA_job_PRJNA325438_PRJNA307272_PRJEB7842_PRJEB7137_PRJNA288708 
+  599  ls -al
+  600  rm SRA_job_PRJNA325438_PRJNA307272_PRJEB7842_PRJEB7137_PRJNA288708
+  601  rm SRA_job_PRJNA325438_PRJNA307272_PRJEB7842_PRJEB7137_PRJNA288708.sh 
+  602  nano SRA_job_
+  603  ls -al
+  604  logout
+  605  ls -al
+  606  cd endophyte
+  607  ls -al
+  608  ls ./bonito
+  609  cd bonito
+  610  ls -al
+  611  cd 16S_host_denoised_by_SampleID.fasta/
+  612  ls -al
+  613  nano 000.2.2Pine.NC2.fasta 
+  614  cd ..
+  615  ls -al
+  616  cd ..
+  617  cd geremia
+  618  ls -al
+  619  less Bacterial_abu_uniq.fasta 
+  620  pwd
+  621  cd ..
+  622  ls -al
+  623  cd bonito
+  624  ls -al
+  625  cd 16S_host_denoised_by_SampleID.fasta/
+  626  ls -al
+  627  cd ..
+  628  ls -al
+  629  logout
+  630  ls -al
+  631  cd murre_hunt
+  632  ls -al
+  633  cd biol812
+  634  ls -al
+  635  mkdir SnakeMake
+  636  ls -al
+  637  cd SnakeMake
+  638  ls -al
+  639  pip install --user snakemake
+  640  ls -al
+  641  module load python
+  642  pip install --user snakemake
+  643  module load scipy-stack
+  644  snakemake
+  645  wget https://hpc-carpentry.github.io/hpc-python/files/snakemake-lesson.tar.gz
+  646  ls -al
+  647  gunzip snakemake-lesson.tar.gz 
+  648  tar -xf snakemake-lesson.tar 
+  649  ls -al
+  650  cd snakemake-lesson/
+  651  ls -al
+  652  snakemake
+  653  cd ..
+  654  snakemake
+  655  export PATH=~/.local/bin:$PATH
+  656  ls -al
+  657  snakemake
+  658  cd snakemake-lesson/
+  659  ls -al
+  660  snakemake
+  661  echo getting the error after typing 'snakemake' is normal
+  662  echo we are going to remedy this
+  663  snakemake
+  664  export PATH=~/.local/bin:$PATH
+  665  snakemake
+  666  ls books/
+  667  echo I am having problems - snakemake is supposed to work after using the export path command
+  668  python3.wordcount.py/isles.txt
+  669  python3.wordcount.py/isles.txt isles.dat
+  670  python3.wordcount.py/isles.txt isles.dat ascii
+  671  logout
+  672  ls -al
+  673  cd biol812/
+  674  ls -al
+  675  cd SnakeMake/
+  676  ls -al
+  677  cd snakemake-lesson/
+  678  ls -al
+  679  module load python
+  680  module load scipy-stack
+  681  ls -al
+  682  snakemake
+  683  export PATH=~/.local/bin:$PATH
+  684  snakemake
+  685  nano Snakefile
+  686  snakemake
+  687  nano Snakefile 
+  688  snakemake
+  689  nano Snakefile 
+  690  snakemake
+  691  nano Snakefile 
+  692  snakemake
+  693  nano Snakefile 
+  694  nano Snakefile2
+  695  snakemake -s Snakefile2
+  696  snakemake
+  697  ls -al
+  698  nano Snakefile2
+  699  ls -al
+  700  snakemake -s Snakefile2
+  701  ls -al
+  702  nano Snakefile2
+  703  snakemake -s Snakefile2 -p
+  704  snakemake -s Snakefile2 word_count_abyss
+  705  ls -al
+  706  nano Snakefile2
+  707  snakemake -s Snakefile2 -n
+  708  nano Snakefile2
+  709  snakemake -s Snakefile2 -n
+  710  ls -al
+  711  cd murre_hunt/
+  712  ls -al
+  713  cd raw_data_huntrad/
+  714  ls -al
+  715  cd lane1
+  716  ls -al
+  717  cd ..
+  718  ls -al
+  719  cd scripts_radhunt/
+  720  ls -al
+  721  less populations1.sh 
+  722  cd ..
+  723  ls -al
+  724  cd barcodes/
+  725  ls -al
+  726  cd ..
+  727  ls -al
+  728  cd clean_bam/
+  729  ls -al
+  730  less TMBU-ULD-5.xs.bam 
+  731  cd ../..
+  732  ls -al
+  733  nano commands 
+  734  logout
+  735  ls -al
+  736  cd /u1/work/hpc2991/
+  737  pwd
+  738  cd ..
+  739  ls -al
+  740  pwd
+  741  cd /hpc3737/
+  742  cd hpc3737
+  743  ls -al
+  744  nano nano.save
+  745  nano nano.save.1
+  746  rm nano.save
+  747  rm nano.save.1
+  748  ls -al
+  749  nano test.sh
+  750  nano testout.txt
+  751  rm testout.txt 
+  752  nano test.sh
+  753  ls -al
+  754  nano file.txt
+  755  rm file.txt 
+  756  ls -al
+  757  nano commands
+  758  rm commands 
+  759  ls -al
+  760  nano COMU.txt 
+  761  mv COMU.txt Ima2
+  762  ls -al
+  763  rm ima2-8.27.12.tar.gz 
+  764  rm GenepopV4.tar.gz 
+  765  rm examples.tar.gz 
+  766  rm gencommand_proj4.tar.gz 
+  767  ls -al
+  768  nano RStudio.R
+  769  nano tes.sh.save
+  770  nano test.sh
+  771  rm tes.sh.save 
+  772  ls -al
+  773  ls -ltr
+  774  ls -r
+  775  ls -rl
+  776  ls -l
+  777  man ls
+  778  ls -o
+  779  ls -S
+  780  ls -So
+  781  man ls
+  782  ls --block-size=SIZE
+  783  ls --blocksize=SIZE
+  784  man ls
+  785  ls -x
+  786  ls -xa
+  787  ls -a
+  788  ls -ral
+  789  man ls
+  790  ls -atl
+  791  cd bash
+  792  ls -al
+  793  cd ..
+  794  ls -al
+  795  ls -tal
+  796  ls Genepop/
+  797  cd Genepop/
+  798  ls -al
+  799  tar -zxf GenepopV4.tar.gz 
+  800  ls -al
+  801  rm GenepopV4.tar.gz 
+  802  ls -al
+  803  cd ..
+  804  ls -al
+  805  ls -atl
+  806  cd ABC
+  807  ls -al
+  808  ls -atl
+  809  cd ..
+  810  ls -al
+  811  ls -atl
+  812  cd R
+  813  ls -al
+  814  ls -atl
+  815  cd ..
+  816  ls -atl
+  817  cd Example_populations/
+  818  ls -al
+  819  cd ..
+  820  cd Example_d
+  821  cd Example_denovo/
+  822  ls -atl
+  823  cd .
+  824  cd ..
+  825  ls -alt
+  826  pwd
+  827  cd ../../project/
+  828  ls -al
+  829  cd hpcg1492
+  830  ls -al
+  831  less tbmu.fa
+  832  cd ..
+  833  ls -atl
+  834  cd hpcg1482
+  835  cd hpcg1492
+  836  ls -alt
+  837  cd genome_assemblies
+  838  ls -atl
+  839  less BLGU_gapClosed.fa
+  840  less BLGU_gapClosed.filter500.fa 
+  841  cd /global/home/hpc3737
+  842  ls -al
+  843  cd ../hpc2991
+  844  ls -al
+  845  ls -atl
+  846  ls -al
+  847  mkdir rawdata_rad
+  848  ls -al
+  849  cd rawdata_rad/
+  850  ls -al
+  851  ls -atl
+  852  wget https://genomequebec.mcgill.ca/nanuqMPS/project/ProjectPage/projectId/13688?0-1.ILinkListener-tabs-repeater-4-tab-panel-content-navButtonsPanel-navButtonsDiv-1-link
+  853  ls -atl
+  854  rm 13688\?0-1.ILinkListener-tabs-repeater-4-tab-panel-content-navButtonsPanel-navButtonsDiv-1-link 
+  855  nano readget_murrerad.sh
+  856  wget https://genomequebec.mcgill.ca/nanuqMPS/fileDownload/type/READ_SET_FASTQ/id/306179/filename/HI.3818.007.D701---D502.Tig2_R1.fastq.gz
+  857  ls -alt
+  858  tar -zxf HI.3818.007.D701---D502.Tig2_R1.fastq.gz 
+  859  ls -atl
+  860  gunzip HI.3818.007.D701---D502.Tig2_R1.fastq.gz 
+  861  ls -atl
+  862  tar -xf HI.3818.007.D701---D502.Tig2_R1.fastq.gz 
+  863  ls -atl
+  864  gunzip HI.3818.007.D701---D502.Tig2_R1.fastq.gz
+  865  cd ..
+  866  l s-atl
+  867  ls -lat
+  868  cd endophyte/
+  869  ls -atl
+  870  nano SRA_job_PRJNA325438_PRJNA307272_PRJEB7842_PRJEB7137_PRJNA288708.sh 
+  871  cd ../rawdata_rad/
+  872  ls -atl
+  873  nano readget_murrerad.sh 
+  874  ls -atl
+  875  man gunzip
+  876  gunzip -t HI.3818.007.D701---D502.Tig2_R1.fastq.gz 
+  877  zcat HI.3818.007.D701---D502.Tig2_R1.fastq.gz > HI.3818.007.D701---D502.Tig2_R1.fastq
+  878  tar HI.3818.007.D701---D502.Tig2_R1.fastq
+  879  tar -f HI.3818.007.D701---D502.Tig2_R1.fastq
+  880  tar -x HI.3818.007.D701---D502.Tig2_R1.fastq
+  881  man tar
+  882  tar -xz --gunzip HI.3818.007.D701---D502.Tig2_R1.fastq
+  883  less HI.3818.007.D701---D502.Tig2_R1.fastq
+  884  ls -atl
+  885  wget C:\Users\Brody\Downloads\Murres_radseq_library_2018_03_29.csv
+  886  sftp C:\Users\Brody\Downloads\Murres_radseq_library_2018_03_29.csv
+  887  man sftp
+  888  ls -atl
+  889  cd murre_hunt/
+  890  ls -atl
+  891  less notes_radhunt 
+  892  cd faststructure/
+  893  ls -atl
+  894  nano comu.4.log 
+  895  ls -atl
+  896  cd ..
+  897  ls -alt
+  898  cd raw_data_huntrad/
+  899  ls -atl
+  900  cd lanq1
+  901  cd lane1
+  902  ls -atl
+  903  fastqc lane1.Tig1_R1.fastq.gz
+  904  module load fastqc
+  905  fastqc lane1.Tig1_R1.fastq.gz 
+  906  ls -atl
+  907  cd u1
+  908  ls -atl
+  909  cd sam
+  910  ls 0atl
+  911  ls -atl
+  912  cd ../..
+  913  ls -atl
+  914  wget https://hpc-carpentry.github.io/hpc-python/files/snakemake-lesson.tar.gz
+  915  ls -atl
+  916  tar -xzf snakemake-lesson.tar.gz 
+  917  ls -atl
+  918  cd snakemake-lesson/
+  919  ls -atl
+  920  snakemake
+  921  cd murre_hunt/
+  922  ls -atl
+  923  cd raw_data_huntrad/
+  924  ls -atl
+  925  cd lane1
+  926  ls -lat
+  927  pwd
+  928  ls -atl
+  929  fastqc lane1.Tig1_R2.fastq.gz
+  930  module load fastqc
+  931  fastqc lane1.Tig1_R2.fastq.gz
+  932  ls -atl
+  933  fastqc lane1.Tig2_R*.fastq.gz
+  934  ls -atl
+  935  fastqc lane1.Tig3_R*fastq.gz lane1.Tig4_R*fastq.gz
+  936  ls -atl
+  937  cd ?
+  938  ls -atl
+  939  cd ..
+  940  ls -atl
+  941  ls -arl
+  942  ls -atl
+  943  cd rawdata_rad/
+  944  ls -arl
+  945  ls -atl
+  946  less HI.3818.007.D701---D502.Tig2_R1.fastq
+  947  rm HI.3818.007.D701---D502.Tig2_R1.fastq
+  948  ls -atl
+  949  tar -zxf HI.3818.007.D701---D502.Tig2_R1.fastq.gz > HI.3818.007.D701---D502.Tig2_R1.fastq
+  950  module load fastqc
+  951  ls l-atl
+  952  ls -atl
+  953  man fastqc
+  954  nano README.txt
+  955  ls -atl
+  956  less HI.3818.007.D701---D502.Tig2_R1.fastq
+  957  nano HI.3818.007.D701---D502.Tig2_R1.fastq
+  958  ls -atl
+  959  rm HI.3818.007.D701---D502.Tig2_R1.fastq
+  960  java -version
+  961  fastqc --help
+  962  ls -atl
+  963  nano README.txt 
+  964  fastqc HI.3818.007.D701---D502.Tig2_R1.fastq.gz
+  965  cp HI.3818.007.D701---D502.Tig2_R1.fastq.gz > HI.3818.007.D701---D502.Tig2_R1_test.fastq.gz 
+  966  cp HI.3818.007.D701---D502.Tig2_R1.fastq.gz HI.3818.007.D701---D502.Tig2_R1_test.fastq.gz 
+  967  ls -atl
+  968  gzip HI.3818.007.D701---D502.Tig2_R1_test.fastq.gz
+  969  ls -atl
+  970  fastqc HI.3818.007.D701---D502.Tig2_R1_test.fastq.gz
+  971  ls -atl
+  972  rm HI.3818.007.D701---D502.Tig2_R1*
+  973  ls -atl
+  974  wget https://genomequebec.mcgill.ca/nanuqMPS/fileDownload/type/READ_SET_FASTQ/id/306179/filename/HI.3818.007.D701---D502.Tig2_R1.fastq.gz
+  975  ls -atl
+  976  fastqc HI.3818.007.D701---D502.Tig2_R1.fastq.gz
+  977  ls -atl
+  978  rm HI.3818.007.D701---D502.Tig2_R1.fastq.gz 
+  979  ls -atl
+  980  wget https://genomequebec.mcgill.ca/nanuqMPS/fileDownload/type/READ_SET_FASTQ_PE/id/306179/filename/HI.3818.007.D701---D502.Tig2_R2.fastq.gz
+  981  ls -atl
+  982  fastqc HI.3818.007.D701---D502.Tig2_R2.fastq.gz
+  983  ls -atl
+  984  cp HI.3818.007.D701---D502.Tig2_R2.fastq.gz HI.3818.007.D701---D502.Tig2_R2.fastq
+  985  ls -atl
+  986  less HI.3818.007.D701---D502.Tig2_R2.fastq
+  987  nano HI.3818.007.D701---D502.Tig2_R2.fastq
+  988  lst -atl
+  989  ls -atl
+  990  rm HI.3818.007.D701---D502.Tig2_R2.fastq*
+  991  ls -atl
+  992  wget https://genomequebec.mcgill.ca/nanuqMPS/fileDownload/type/READ_SET_FASTQ/id/306179/filename/HI.3818.007.D701---D502.Tig2_R1.fastq.gz
+  993  ls -atl
+  994  cp HI.3818.007.D701---D502.Tig2_R1.fastq.gz HI.3818.007.D701---D502.Tig2_R1.fastq
+  995  ls -atl
+  996  nano HI.3818.007.D701---D502.Tig2_R1.fastq
+  997  rm HI.3818.007.D701---D502.Tig2_R1.fastq*
+  998  ls -atl
+  999  wget -O - "https://genomequebec.mcgill.ca/nanuqMPS/readsetList?projectId=13688&tech=HiSeq" --no-cookies --no-check-certificate --post-data 'j_username=atigano&j_password=416qyn85' | wget --no-cookies --no-check-certificate --post-data 'j_username=atigano&j_password=416qyn85' -ci - 
+ 1000  ls -atl
+ 1001  cd rawdata_rad/
+ 1002  ls -atl
+ 1003  ls
+ 1004  man wget
+ 1005  wget -O - "https://genomequebec.mcgill.ca/nanuqMPS/readsetList?projectId=13688&tech=HiSeq" --no-cookies --no-check-certificate --post-data 'j_username=atigano&j_password=416qyn85' -nc | wget --no-cookies --no-check-certificate --post-data 'j_username=atigano&j_password=416qyn85' -nc -ci -
+ 1006  history > command_log.txt
